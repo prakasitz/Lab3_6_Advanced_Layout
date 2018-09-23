@@ -9,3 +9,6 @@
 โดย RelativeLayout เป็นตัว Root
 </br>
 ไปหน้า [activity_main.xml](https://github.com/prakasitz/Lab3_6_Advanced_Layout/blob/master/app/src/main/res/layout/activity_main.xml)</br>
+![preview1](https://github.com/prakasitz/Lab3_6_Advanced_Layout/blob/master/preview1.png)
+</br>
+
